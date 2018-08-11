@@ -8,6 +8,8 @@ UnityからTwitter REST-APIを利用するサンプルプロジェクト．
 
 現在は検索APIのみ実装済み．
 
+![Search.gif](https://github.com/nmxi/UnityTwitterRestAPI/blob/master/DescriptionImage/Search.gif)
+
 ## Setup
 Unityでプロジェクトを開いた後，Demoシーンを開きます．
 
