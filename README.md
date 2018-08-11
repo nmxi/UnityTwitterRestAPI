@@ -1,4 +1,4 @@
-# UnityTwitterAPI
+# UnityTwitterRestAPI
 
 ## Env.
 Unity 2018.1.5f1 or more
