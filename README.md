@@ -9,6 +9,7 @@ UnityからTwitter REST-APIを利用するサンプルプロジェクト．
 現在は検索APIのみ実装済み．
 
 ## Setup
-Unityでプロジェクトを開いた後，
+Unityでプロジェクトを開いた後，Demoシーンを開きます．
+
 Canvas - Buttonの中にある，TwitterCommentSearcher.csにAPIキーやシークレットを入力してから，
 実行中にButtonを押すことで，検索結果がJsonでコンソール上に表示されます．
