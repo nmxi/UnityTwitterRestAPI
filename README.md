@@ -9,6 +9,7 @@ UnityからTwitter REST-APIを利用するサンプルプロジェクト．
 現在は検索APIのみ実装済み．
 
 詳しくは以下の記事を参考にしてください．
+
 [UnityでTwitterRestAPIをOAuthの勉強がてら自家実装でたたいてみた](https://qiita.com/nmxi/items/93d7806feab31164cd6c)
 
 ![Search.gif](https://github.com/nmxi/UnityTwitterRestAPI/blob/master/DescriptionImage/Search.gif)
